@@ -15,3 +15,8 @@ const someName = (firstName, lastName) => {
         return firstName + lastName;
 }
 
+
+getName();
+getArgs("Test", "User");
+
+
